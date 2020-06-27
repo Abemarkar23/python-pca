@@ -1,3 +1,3 @@
 # python-pca
 
-made pca by using covariance matrix
+made pca using covariance matrix
